@@ -1,0 +1,18 @@
+{
+  "name": "athos-search-file",
+  "main": "./lib/athos-search-file",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "athos-search-file:buscar"
+  },
+  "repository": "https://github.com/atom/athos-search-file",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.8"
+  }
+}

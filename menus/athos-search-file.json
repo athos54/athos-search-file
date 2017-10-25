@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle athos-search-file",
+        "command": "athos-search-file:buscar"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "athos-search-file",
+          "submenu": [
+            {
+              "label": "Buscar",
+              "command": "athos-search-file:buscar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
