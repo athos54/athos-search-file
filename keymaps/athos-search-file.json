@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-f": "athos-search-file:buscar"
+    "ctrl-alt-f": "athos-search-file:buscar",
+    "ctrl-alt-f": "athos-search-file:cerrar"
   }
 }

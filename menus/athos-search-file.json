@@ -2,14 +2,14 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle athos-search-file",
+        "label": "athos-search-file",
         "command": "athos-search-file:buscar"
       }
     ]
   },
   "menu": [
     {
-      "label": "Packages",
+      "label": "Find",
       "submenu": [
         {
           "label": "athos-search-file",
