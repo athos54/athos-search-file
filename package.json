@@ -1,7 +1,7 @@
 {
   "name": "athos-search-file",
   "main": "./lib/athos-search-file",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
