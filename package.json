@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "athos-search-file:buscar"
   },
-  "repository": "https://github.com/atom/athos-search-file",
+  "repository": "https://github.com/athos54/athos-search-file",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
