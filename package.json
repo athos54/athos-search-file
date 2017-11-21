@@ -7,12 +7,29 @@
   "activationCommands": {
     "atom-workspace": "athos-search-file:buscar"
   },
-  "repository": "https://github.com/athos54/athos-search-file",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athos54/athos-search-file.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
     "shelljs": "^0.7.8"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/athos54/athos-search-file/issues"
+  },
+  "homepage": "https://github.com/athos54/athos-search-file#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha ./lib/athos-search-file-viewTest.js ./lib/athos-search-fileTest.js"
+  },
+  "author": "Athos Orío Choperena"
 }
